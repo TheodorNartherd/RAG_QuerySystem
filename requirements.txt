@@ -4,6 +4,4 @@ qdrant-client
 openai
 fastembed
 sql_metadata
-keybert
-flaxp
 streamlit
